@@ -18,25 +18,32 @@
 - Applied a holistic approach that encompassed data analysis and the seamless deployment of various algorithms, ensuring the generation of insightful results that **informed strategic decision-making in the advertising domain**.
 
 ## Projects
-###Credit Score Classification
+### Credit Score Classification
+
 Implemented a Credit Score Classifier (CSC), utilizing a **Random Forest Classifier** to evaluate individuals' credit scores for banks and credit card companies. **Enhanced accuracy** in categorizing scores as Good, Standard, or Poor for informed creditworthiness assessments. Visualized credit scores using box plots.
 
-###Dynamic Pricing Strategy
+### Dynamic Pricing Strategy
+
 Directed a dynamic pricing strategy for a ride-sharing firm, **enhancing revenue and profitability** with adaptive pricing tied to market demand, customer behavior, and competitor rates. Conducted **EDA**, visualizing ride metrics using a **heat map (correlation matrix)**; and employed a **Regression Algorithm** called **RandomForestRegressor** to predict ride costs.
 
-###Named Entity Recognition
+### Named Entity Recognition
+
 Enhanced NER in **Natural Language Processing** with a **90% accuracy ML model**. Streamlined data for **Neural Networks**, using **LSTM layers** in a 25-epoch-trained model for **highly accurate** named entity recognition.
 
-###Business Forecasting
+### Business Forecasting
+
 Administered a business forecasting model, applying **Time Series Forecasting** to predict Adidas's quarterly revenue. Employed Seasonal **ARIMA** from **Statsmodels** for initial quarterly sales revenue predictions, followed by **SARIMAX** to assess **time series data seasonality**.
 
-###App User Segmentation
+### App User Segmentation
+
 Executed app user segmentation to group users by engagement, aiding in identifying retained and churn users. Applied **K-Means Clustering** to discern clusters within Retained and Lost Users data.
 
-###Spotify Recommendation System
+### Spotify Recommendation System
+
 Crafted a Music Recommendation System using the **Spotify API and Python**, leveraging real-time data for a **30% accuracy boost**. Integrated **content-based and popularity-based algorithms**, culminating in a hybrid system that **enhances user engagement, satisfaction, and retention** with personalized and relevant music suggestions.
 
-####Certifications
+### Certifications
+
 - Data Science and Analytics, Netzwerk Academy *[September 2023]*
 - Data Analytics Consulting Virtual Internship, KPMG *[August 2023]*
 - Power BI Virtual Case Experience, PWC *[August 2023]*
